@@ -1,0 +1,13 @@
+# 核心依赖
+Appium-Python-Client==2.0.0
+selenium==4.0.0
+urllib3==1.26.6
+
+# 进程和系统管理
+psutil>=5.8.0
+
+# 定时任务
+schedule>=1.2.0
+
+# Windows系统支持（如果需要）
+pywin32>=306; platform_system == "Windows" 

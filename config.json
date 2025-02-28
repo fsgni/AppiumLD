@@ -1,0 +1,86 @@
+{
+    "channels": {
+        "blockchain": {
+            "name": "BlockChain",
+            "source_dir": "\\\\192.168.200.150\\Serimu-YouTube2\\AutoShort\\BlockchainShort",
+            "save_dir": "C:\\AppiumLD\\savevideo",
+            "recycle_dir": "C:\\AppiumLD\\recycle",
+            "device_id": "01",
+            "adb_device": "emulator-5554",
+            "schedule_time": "13:38",
+            "system_port": 8200
+        },
+        "entertainment": {
+            "name": "Entertainment",
+            "source_dir": "\\\\192.168.200.150\\Serimu-YouTube2\\AutoShort\\EntertainmentNewsShort",
+            "save_dir": "C:\\AppiumLD\\savevideo2",
+            "recycle_dir": "C:\\AppiumLD\\recycle2",
+            "device_id": "02",
+            "adb_device": "emulator-5556",
+            "schedule_time": "15:48",
+            "system_port": 8201
+        },
+        "globalnews": {
+            "name": "GlobalNews",
+            "source_dir": "\\\\192.168.200.150\\Serimu-YouTube2\\AutoShort\\GlobalNewsShort",
+            "save_dir": "C:\\AppiumLD\\savevideo3",
+            "recycle_dir": "C:\\AppiumLD\\recycle3",
+            "device_id": "03",
+            "adb_device": "emulator-5558",
+            "schedule_time": "18:13",
+            "system_port": 8202
+        },
+        "mainichinews": {
+            "name": "MainichiNews",
+            "source_dir": "\\\\192.168.200.150\\Serimu-YouTube2\\AutoShort\\MainichiNewsShort",
+            "save_dir": "C:\\AppiumLD\\savevideo4",
+            "recycle_dir": "C:\\AppiumLD\\recycle4",
+            "device_id": "04",
+            "adb_device": "emulator-5560",
+            "schedule_time": "19:30",
+            "system_port": 8203
+        },
+        "yahooscience": {
+            "name": "YahooScience",
+            "source_dir": "\\\\192.168.200.150\\Serimu-YouTube2\\AutoShort\\YahooScienceShort",
+            "save_dir": "C:\\AppiumLD\\savevideo5",
+            "recycle_dir": "C:\\AppiumLD\\recycle5",
+            "device_id": "05",
+            "adb_device": "emulator-5562",
+            "schedule_time": "20:40",
+            "system_port": 8204
+        },
+        "yahoobusiness": {
+            "name": "YahooBusiness",
+            "source_dir": "\\\\192.168.200.150\\Serimu-YouTube2\\AutoShort\\YahooBusinessShort",
+            "save_dir": "C:\\AppiumLD\\savevideo6",
+            "recycle_dir": "C:\\AppiumLD\\recycle6",
+            "device_id": "06",
+            "adb_device": "emulator-5564",
+            "schedule_time": "21:30",
+            "system_port": 8205
+        },
+        "yahoolocal": {
+            "name": "YahooLocal",
+            "source_dir": "\\\\192.168.200.150\\Serimu-YouTube2\\AutoShort\\YahooLocalShort",
+            "save_dir": "C:\\AppiumLD\\savevideo7",
+            "recycle_dir": "C:\\AppiumLD\\recycle7",
+            "device_id": "07",
+            "adb_device": "emulator-5566",
+            "schedule_time": "22:40",
+            "system_port": 8206
+        }
+        ,
+        "cryptoslate": {
+            "name": "CryptoSlateShort",
+            "source_dir": "\\\\192.168.200.150\\Serimu-YouTube2\\AutoShort\\CryptoSlateShort",
+            "save_dir": "C:\\AppiumLD\\savevideo8",
+            "recycle_dir": "C:\\AppiumLD\\recycle8",
+            "device_id": "08",
+            "adb_device": "emulator-5568",
+            "schedule_time": "23:40",
+            "system_port": 8207
+        }
+        
+    }
+} 

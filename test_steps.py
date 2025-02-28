@@ -1,0 +1,15 @@
+steps = [
+    ("plus_button", step_1_plus_button),
+    ("select_video", step_2_select_video),
+    ("click_next", step_3_click_next),
+    ("add_sound", step_4_add_sound),
+    ("saved_music", step_5_saved_music),
+    ("select_first_song", step_6_select_first_song),
+    ("volume_button", step_8_volume_button),
+    ("adjust_added_sound", step_9_adjust_added_sound),
+    ("adjust_bgm", step_10_adjust_bgm),
+    ("confirm_volume", step_11_confirm_volume),
+    ("click_next_for_title", step_12_click_next_for_title),
+    ("input_title", lambda d, w: step_13_input_title(d, w, video_directory)),
+    ("click_upload", step_14_click_upload),
+] 
